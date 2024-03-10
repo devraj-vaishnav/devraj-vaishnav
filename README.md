@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devraj Vaishav</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+ <img scr="![image](https://github.com/devraj-vaishnav/devraj-vaishnav/assets/150519619/176fce2a-5988-4005-9b3e-7bd8330b0ace)
+" alt="Coding" width="400" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devraj-vaishnav&label=Profile%20views&color=0e75b6&style=flat" alt="devraj-vaishnav" /> </p>
 
 - 📫 How to reach me **devrajv2020@gmail.com**
