@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devraj Vaishav</h1>
 <h3 align="center">A passionate Software developer from India</h3>
- <img scr="https://github.com/devraj-vaishnav/devraj-vaishnav/assets/150519619/176fce2a-5988-4005-9b3e-7bd8330b0ace
+ <img scr="![image](https://github.com/devraj-vaishnav/devraj-vaishnav/assets/150519619/5d2a2934-c9c3-4bff-be16-56c826fab954)
 " alt="Coding" width="400" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devraj-vaishnav&label=Profile%20views&color=0e75b6&style=flat" alt="devraj-vaishnav" /> </p>
 
