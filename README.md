@@ -1,4 +1,4 @@
-![logo](https://github.com/devraj-vaishnav/devraj-vaishnav/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/devraj-vaishnav/devraj-vaishnav/blob/main/back4.PNG)
 <h1 align="center">Hi 👋, I'm Devraj Vaishav</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img alt="Coding" width="400" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
